@@ -1,0 +1,24 @@
+{
+  "name": "test-app-electron",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Industrialists/test-app-electron.git"
+  },
+  "author": "The Industrialists",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Industrialists/test-app-electron/issues"
+  },
+  "homepage": "https://github.com/The-Industrialists/test-app-electron#readme",
+  "description": "",
+  "devDependencies": {
+    "electron": "^31.1.0"
+  }
+}
